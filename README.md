@@ -9,7 +9,7 @@ The project consists of an ESP32-based smart boxing glove capable of measuring p
 ## Features
 
 - Punch force measurement
-- Punch speed estimation
+- Punch speed estimation (to do)
 - Punch trajectory tracking
 - Bluetooth Low Energy communication
 - Rechargeable battery-powered system
